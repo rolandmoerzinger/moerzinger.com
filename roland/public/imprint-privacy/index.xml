@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressum und Datenschutz on Roland Mörzinger, Consulting für KI und Computer Vision</title>
-    <link>https://www.moerzinger.com/roland/imprint-privacy/</link>
+    <link>https://www.moerzinger.com/roland/public/imprint-privacy/</link>
     <description>Recent content in Impressum und Datenschutz on Roland Mörzinger, Consulting für KI und Computer Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate><atom:link href="https://www.moerzinger.com/roland/imprint-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate><atom:link href="https://www.moerzinger.com/roland/public/imprint-privacy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
