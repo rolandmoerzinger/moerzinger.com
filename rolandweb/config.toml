@@ -1,0 +1,75 @@
+baseURL = "https://www.moerzinger.com/roland/"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "Roland Mörzinger, Consulting für KI und Computer Vision"
+theme = "adritian-free-hugo-theme"
+
+
+# Languages
+#   en
+#     weight: 1
+#   es
+#     weight: 2
+
+[build]
+  writeStats = true
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "Expertise"
+  URL = "index.html#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Erfahrung"
+  URL = "index.html#experience"
+  weight = 3
+
+  [[menu.header]]
+  name = "Kontakt"
+  URL = "#contact"
+  weight = 4
+
+  [[menu.footer]]
+  name = "📍 Impressum und Datenschutz"
+  URL = "imprint-privacy"
+  weight = 2
+
+  [[menu.footer]]
+  name = "◀️ Moerzinger.com Startseite"
+  URL = "https://www.moerzinger.com"
+  weight = 5
+
+
+[params]
+
+  sections = ["showcase", "about", "education", "experience", "contact"]
+  googleTagManagerID = "GTM-NVN2BJG" # Google Analytics works with Google Tag Manager
+  homepageExperienceCount = 6
+
+  [params.logo]
+    text1 = "Roland"
+    text2 = "Mörzinger"
+
+  [params.footer]
+      copyright = "© Roland Mörzinger <br> Custom theme, built from © Adritian"

@@ -1,0 +1,112 @@
+head:
+  title: "Roland Mörzinger | Computer Scientist, Entrepreneur"
+  description: "Roland Mörzinger | Computer Scientist, Entrepreneur"
+# showcase
+showcase:
+  enable: true
+  title: "KI und Computer Vision"
+  subtitle: "für digitale Transformation"
+  description: "
+Mit 20 Jahren Berufserfahrung in Forschung, Entwicklung und Unternehmertum
+verfüge ich über ein tiefgreifendes Verständnis für Zukunftstechnologien wie
+Augmented Reality (AR), Computer Vision und Künstliche Intelligenz (KI).
+
+<br>
+<br>
+Als Consultant stehe ich Ihnen mit meiner langjährigen <a href='index.html#experience'>Erfahrung</a> und <a href='index.html#about'>Expertise</a> zur Verfügung, um maßgeschneiderte Lösungen und Strategien zu entwickeln, die Ihre Geschäftsziele unterstützen.
+"
+  image:
+    alt: "Roland mörzinger"
+    x: "images/roland_moerzinger.jpg"
+    _2x: "images/roland_moerzinger@2x.jpg"
+  imageMobile:
+    alt: "Roland mörzinger"
+    x: "images/roland_moerzinger.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Kontakt"
+    URL: "#contact"
+
+  socialLinks:
+
+
+# about
+about:
+  enable: true
+  title: "Meine Expertise"
+  content: ' <p class="lead">
+
+👨‍💻 technisches Know-how:
+Ich bin tief in angewandter Forschung und agiler Softwareentwicklung verwurzelt,
+besonders in KI, Computer Vision, AR und datenbasierten Lösungen.
+<br><br>
+
+📈 unternehmerische Denkweise:
+Neben meinem technischen Background habe ich auch Erfahrung im Unternehmertum gesammelt,
+u.a. als <a href="experience/kapanu">Gründer und CEO eines Tech Start-ups</a> - von der Idee bis zum Exit.
+<br><br>
+
+👆 Leadership:
+Als Consultant teile ich nun mein Wissen und unterstütze Unternehmen dabei, nicht nur Strategien zu entwickeln, sondern diese auch erfolgreich in Software umzusetzen.
+Ich stehe sowohl für die Entwicklung von Lösungen als auch für Mentoring und Mitarbeiterführung zur Verfügung.
+</p>
+'
+
+  image:
+    x: "images/ki-attersee-small.jpg"
+    _2x: "images/ki-attersee-orig.jpg"
+  image_caption: "\"Künstliche Intelligenz vom Attersee\" (DALL·E 3)"
+
+# education
+education:
+  enable: false
+  title: "Studium"
+  items:
+    - university: "FH Oberösterreich Campus Hagenberg"
+      year: "2000-2005"
+      degree: "Diplom-Studium, Software Engineering für Medizin "
+
+# experience
+experience:
+  enable: true
+  title: "Erfahrung"
+  description: "In den letzten 20 Jahren habe ich als Software Engineer, Computer Scientist und Start-up Gründer gearbeitet.
+<br>
+  Ich bin immer daran interessiert, innovative Ideen zum wirtschaftlichen Erfolg zu führen.
+  <br>
+  <br> Meine Stärke liegt darin, schwierige Probleme auf einfache Weise zu lösen."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/roland-m%C3%B6rzinger-907a0785/"
+  button2:
+      icon: "icon-profile-fill"
+      btnText: "Publikationen & Patente"
+      URL: "https://scholar.google.at/citations?hl=de&user=S8F__G8AAAAJ&view_op=list_works&sortby=pubdate"
+  button3:
+    icon: "icon-arrow-right"
+    btnText: "Mehr ..."
+    URL: "experience"
+
+
+
+# contact
+contact:
+  enable: true
+  title: "Kontakt"
+  address:
+    title: "Adresse"
+    address: "am malerischen Attersee ⛵🇦🇹"
+  form:
+    action: "https://public.herotofu.com/v1/58dacef0-fa95-11ee-bf9d-5f9a26e8739d"
+    method: "post"
+    full_name: "Name"
+    email: "E-mail Adresse"
+    message: "Nachricht"
+  email:
+    title: "E-mail"
+    email: '<a href="mailto:roland@moerzinger.com">roland@moerzinger.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Nachricht senden"
