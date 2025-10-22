@@ -1,4 +1,4 @@
-baseURL       = "https://moerzinger.com/martha/"
+baseURL       = "https://moerzinger.com/martha/public/"
 languageCode  = "de-at"
 title         = "Martha Mörzinger, Arch. DI"
 theme         = "roxo-hugo"

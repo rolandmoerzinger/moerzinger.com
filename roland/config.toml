@@ -1,4 +1,4 @@
-baseURL = "https://www.moerzinger.com/roland/"
+baseURL = "https://www.moerzinger.com/roland/public/"
 languageCode = "de"
 DefaultContentLanguage = "de"
 title = "Roland Mörzinger, Consulting für KI und Computer Vision"
