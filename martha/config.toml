@@ -4,7 +4,7 @@
 # working for hugo server
  # baseURL = "moerzinger.com/martha/public/"
 
-baseURL       = "moerzinger.com/martha/public/"
+baseURL       = "/moerzinger.com/martha/public/"
 
 languageCode  = "de-at"
 title         = "Martha Mörzinger, Arch. DI"

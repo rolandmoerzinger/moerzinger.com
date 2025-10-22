@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Martha Mörzinger, Arch. DI</title>
-    <link>moerzinger.com/martha/public/tags/</link>
+    <link>/moerzinger.com/martha/public/tags/</link>
     <description>Recent content in Tags on Martha Mörzinger, Arch. DI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language><atom:link href="moerzinger.com/martha/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-at</language><atom:link href="/moerzinger.com/martha/public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

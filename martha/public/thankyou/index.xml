@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kontakt on Martha Mörzinger, Arch. DI</title>
-    <link>moerzinger.com/martha/public/thankyou/</link>
+    <link>/moerzinger.com/martha/public/thankyou/</link>
     <description>Recent content in Kontakt on Martha Mörzinger, Arch. DI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="moerzinger.com/martha/public/thankyou/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="/moerzinger.com/martha/public/thankyou/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
