@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roland Mörzinger, Consulting für KI und Computer Vision</title>
-    <link>git/moerzinger.com/roland/public/</link>
+    <link>moerzinger.com/roland/public/</link>
     <description>Recent content on Roland Mörzinger, Consulting für KI und Computer Vision</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate><atom:link href="git/moerzinger.com/roland/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate><atom:link href="moerzinger.com/roland/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consultant</title>
-      <link>git/moerzinger.com/roland/public/experience/consultant/</link>
+      <link>moerzinger.com/roland/public/experience/consultant/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
       
-      <guid>git/moerzinger.com/roland/public/experience/consultant/</guid>
+      <guid>moerzinger.com/roland/public/experience/consultant/</guid>
       <description>Consultant für Start-ups und Tech-Unternehmen Ich berate Start-ups und Unternehmen bei der Umsetzung von Projekten im Bereich Künstliche Intelligenz (KI).
 Meine Dienstleistungen umfassen die gesamte Bandbreite vom Konzept bis zur Produkteinführung. Dies beinhaltet die Ideengenerierung und Zielsetzung, die Validierung von Lösungen durch den Einsatz von Minimal Viable Products (MVPs) und die anschließende Einführung des Produkts auf dem Markt.
 Außerdem unterstütze ich beim Aufbau und der Betreuung von Software Teams, wie auch die Zusammenarbeit mit Partner und in externen Forschungsprojekten.</description>
@@ -20,29 +20,29 @@ Außerdem unterstütze ich beim Aufbau und der Betreuung von Software Teams, wie
     
     <item>
       <title>Data Scientist, Industrial AI</title>
-      <link>git/moerzinger.com/roland/public/experience/stiwa/</link>
+      <link>moerzinger.com/roland/public/experience/stiwa/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate>
       
-      <guid>git/moerzinger.com/roland/public/experience/stiwa/</guid>
+      <guid>moerzinger.com/roland/public/experience/stiwa/</guid>
       <description>Strategische und operative Entwicklung von KI Projekten in der Produktion Bei STIWA Advanced Products spiele ich eine zentrale Rolle beim Aufbau einer neuen Entwicklungsgruppe für &amp;ldquo;Smart Manufacturing&amp;rdquo;. Dieses Center of Excellence hat das Ziel, künstliche Intelligenz (KI) und Computer Vision zur Optimierung der Produktion einzusetzen.
 In meiner Funktion bin ich für die strategische Ausrichtung verantwortlich und konzipiere operativ Use Cases, die den Einsatz von KI und Computer Vision im Produktionsumfeld ermöglichen sollen.</description>
     </item>
     
     <item>
       <title>CEO und Gründer</title>
-      <link>git/moerzinger.com/roland/public/experience/kapanu/</link>
+      <link>moerzinger.com/roland/public/experience/kapanu/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>git/moerzinger.com/roland/public/experience/kapanu/</guid>
+      <guid>moerzinger.com/roland/public/experience/kapanu/</guid>
       <description>Mein eigenes Start-up Kapanu in Zürich Als Co-Founder und CEO des Start-ups Kapanu spielte ich eine entscheidende Rolle in dem erfolgreichen Aufbau des Unternehmens. Im Jahr 2015 habe ich die Firma Kapanu als AG (Aktiengesellschaft) und als Spin-off der ETH Zürich gegründet, mit dem Ziel, interaktive Lösungen für die digitale Zahnmedizin der Zukunft zu entwickeln. Die Augmented Reality-Technologie des Unternehmens ermöglichte es Patienten, ihre geplanten Restaurationen mit einem &amp;ldquo;Virtuellen Spiegel&amp;rdquo; in einer Augmented Reality App visualisieren, bevor die eigentliche Behandlung beginnt.</description>
     </item>
     
     <item>
       <title>Senior Researcher der ETH Zürich</title>
-      <link>git/moerzinger.com/roland/public/experience/ethz/</link>
+      <link>moerzinger.com/roland/public/experience/ethz/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0100</pubDate>
       
-      <guid>git/moerzinger.com/roland/public/experience/ethz/</guid>
+      <guid>moerzinger.com/roland/public/experience/ethz/</guid>
       <description>Vom wissenschaftlicher Mitarbeiter einer Universität zum Start-up Gründer Als Senior Researcher leitete ich ein Forschungs- und Kooperationsprojekt mit Disney Research Zurich sowie medizinischen Universitäten, darunter die Universitätskliniken für Zahnmedizin in Zürich und Genf.
 Des Weiteren war ich maßgeblich an der Softwareentwicklung, dem Technologietransfer und der Kommerzialisierung eines High-Tech 3D-Gesichtsscanners für die Mund-Kiefer-Gesichtschirurgie beteiligt.
 Als Mitgründer war ich verantwortlich für die Ausgründung des ETH Spin-Offs Kapanu AG in Zürich.
@@ -51,20 +51,20 @@ Als Mitgründer war ich verantwortlich für die Ausgründung des ETH Spin-Offs K
     
     <item>
       <title>Projektleiter und Senior Researcher</title>
-      <link>git/moerzinger.com/roland/public/experience/joanneum/</link>
+      <link>moerzinger.com/roland/public/experience/joanneum/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
       
-      <guid>git/moerzinger.com/roland/public/experience/joanneum/</guid>
+      <guid>moerzinger.com/roland/public/experience/joanneum/</guid>
       <description>Zahlreiche langjährige Forschungs- und Entwicklungsprojekte mit Computer Vision Ich war in einer Vielzahl langjähriger Forschungs- und Entwicklungsprojekte im Bereich Computer Vision involviert.
 Dabei habe ich an nationalen und internationalen F&amp;amp;E-Kooperationsprojekte im DIGITAL – Institut für Informations- und Kommunikationstechnologien gearbeitet und diese teilweise auch geleitet. Meine Forschungs- und Entwicklungsarbeit konzentrierte sich insbesondere auf digitale audiovisuelle Medien, einschließlich der Bereiche digitale Medienproduktion, Sicherheit und Monitoring. Ein Schwerpunkt meiner Tätigkeit lag auf der Entwicklung von Lösungen in den Bereichen Bildverarbeitung und Computer Vision.</description>
     </item>
     
     <item>
       <title>Software Engineer, Freelancer</title>
-      <link>git/moerzinger.com/roland/public/experience/optidoc/</link>
+      <link>moerzinger.com/roland/public/experience/optidoc/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0100</pubDate>
       
-      <guid>git/moerzinger.com/roland/public/experience/optidoc/</guid>
+      <guid>moerzinger.com/roland/public/experience/optidoc/</guid>
       <description>Erste Selbstständigkeit als Software Engineer Ich war als Freelancer Teil eines Teams von zwei Software-Entwicklern per Werkvertrag für die Sehschule des Konventhospitals der Barmherzigen Brüder Linz tätig.
 Meine Hauptaufgaben waren die Entwicklung des Krankenhausinformationssystems optidoc, die Durchführung einer umfassenden Anforderungsanalyse, das Design der Software, ihre Implementierung in Java, die Einführung des Produkts beim Endkunden, die Schulung der Nutzer sowie die fortlaufende Wartung des Systems.
  </description>

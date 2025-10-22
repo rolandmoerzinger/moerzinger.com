@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Roland Mörzinger, Consulting für KI und Computer Vision</title>
-    <link>git/moerzinger.com/roland/public/categories/</link>
+    <link>moerzinger.com/roland/public/categories/</link>
     <description>Recent content in Categories on Roland Mörzinger, Consulting für KI und Computer Vision</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="git/moerzinger.com/roland/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="moerzinger.com/roland/public/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
