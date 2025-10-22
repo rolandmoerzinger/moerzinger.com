@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.moerzinger.com/roland/public/experience/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/experience/consultant/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/consultant/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/</loc>
+    <loc>git/moerzinger.com/roland/public/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/experience/stiwa/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/stiwa/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/imprint-privacy/</loc>
+    <loc>git/moerzinger.com/roland/public/imprint-privacy/</loc>
     <lastmod>2019-12-23T20:56:42+06:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/experience/kapanu/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/kapanu/</loc>
     <lastmod>2019-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/experience/ethz/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/ethz/</loc>
     <lastmod>2016-05-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/experience/joanneum/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/joanneum/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/experience/optidoc/</loc>
+    <loc>git/moerzinger.com/roland/public/experience/optidoc/</loc>
     <lastmod>2012-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/categories/</loc>
+    <loc>git/moerzinger.com/roland/public/categories/</loc>
   </url><url>
-    <loc>https://www.moerzinger.com/roland/public/tags/</loc>
+    <loc>git/moerzinger.com/roland/public/tags/</loc>
   </url>
 </urlset>
