@@ -3,3 +3,5 @@
 /rolandweb/node_modules
 /roland/node_modules
 /roland/resources
+martha/.hugo_build.lock
+/martha/resources
