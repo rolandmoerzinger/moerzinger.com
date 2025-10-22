@@ -1,4 +1,13 @@
+# working for github
+ # baseURL = "/moerzinger.com/roland/public/"
+
+# working for hugo server
+ # baseURL = "moerzinger.com/roland/public/"
+
 baseURL = "/moerzinger.com/roland/public/"
+
+
+
 languageCode = "de"
 DefaultContentLanguage = "de"
 title = "Roland Mörzinger, Consulting für KI und Computer Vision"
