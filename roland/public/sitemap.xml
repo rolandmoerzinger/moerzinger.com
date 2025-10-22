@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/roland/public/experience/</loc>
+    <loc>/moerzinger.com/roland/public/experience/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>/roland/public/experience/consultant/</loc>
+    <loc>/moerzinger.com/roland/public/experience/consultant/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/</loc>
+    <loc>/moerzinger.com/roland/public/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/experience/stiwa/</loc>
+    <loc>/moerzinger.com/roland/public/experience/stiwa/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/imprint-privacy/</loc>
+    <loc>/moerzinger.com/roland/public/imprint-privacy/</loc>
     <lastmod>2019-12-23T20:56:42+06:00</lastmod>
   </url><url>
-    <loc>/roland/public/experience/kapanu/</loc>
+    <loc>/moerzinger.com/roland/public/experience/kapanu/</loc>
     <lastmod>2019-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/experience/ethz/</loc>
+    <loc>/moerzinger.com/roland/public/experience/ethz/</loc>
     <lastmod>2016-05-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/experience/joanneum/</loc>
+    <loc>/moerzinger.com/roland/public/experience/joanneum/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/experience/optidoc/</loc>
+    <loc>/moerzinger.com/roland/public/experience/optidoc/</loc>
     <lastmod>2012-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/roland/public/categories/</loc>
+    <loc>/moerzinger.com/roland/public/categories/</loc>
   </url><url>
-    <loc>/roland/public/tags/</loc>
+    <loc>/moerzinger.com/roland/public/tags/</loc>
   </url>
 </urlset>
