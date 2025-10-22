@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-about-wrapper">
+          <div class="site-about-company">
+            <div align="center">
+            {{ if .Params.profilepicture }}
+              <img src = "{{ .Params.profilepicture | absURL}}" alt="{{ .Params.profilepicture_alt }}" width="200"  />
+            {{ end }}
+            </div>
+            <br>
+            <h1>
+              {{ .Params.heading | safeHTML}}
+            </h1>
+          </div>
+          <div class="site-about-description">
+            <p>
+              {{ .Description | safeHTML}}
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.expertise_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h2>{{ . }}</h2>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+          {{ range .Params.expertise_sectors }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "clients.html" . }}
+
+{{ partial "team.html" . }}
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

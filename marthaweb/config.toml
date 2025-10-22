@@ -1,0 +1,124 @@
+baseURL       = "https://moerzinger.com/martha/"
+languageCode  = "de-at"
+title         = "Martha Mörzinger, Arch. DI"
+theme         = "roxo-hugo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "Über mich"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Architektur"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Kontakt"
+    url     = "contact"
+    weight  = 4
+
+# Site Params
+[params]
+  logo = "images/logoM.png"
+  logo_footer = "images/logo-footerM1.png"
+  favicon_icon = "images/favicon.ico"
+  favicon_shortcut_icon = "images/favicon.png"
+  custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Martha Mörzinger Arch. DI, Architektin, Ziviltechnikerin"
+  author = "Martha Mörzinger Arch. DI"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  #fabform  = "https://fabform.io/f/n0NX35G"
+  #fabform = "https://public.herotofu.com/v1/7a840eb0-f69c-11ee-8e60-c508d5e6cd62" #roland
+  fabform = "https://public.herotofu.com/v1/fa1c7d50-f6a2-11ee-bf9d-5f9a26e8739d" #martha
+
+  #fabform  = "https://api.staticforms.xyz/submit"
+
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "Vorname"
+    placeholder_last_name         = "Nachname"
+    placeholder_email             = "E-mail"
+    #placeholder_project_type      = "Anfrage"
+    placeholder_about_the_project = "Nachricht"
+    send_message                  = "Nachricht senden"
+
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/mm-background2.jpg"
+    heading               = "Martha Mörzinger"
+    tagline               = "Architektin und staatlich befugte und beeidete Ziviltechnikerin"
+    primary_button        = "Architektur"
+    primary_button_url    = "portfolio"
+    secondary_button      = "Kontakt"
+    secondary_button_url  = "contact"
+
+  [params.blog]
+    read_more             = "read more"
+
+  [params.portfolio]
+    enable    = true
+    title     = "Architektur"
+    subtitle  = "Räume fürs Leben. Baustoffe die Freude bereiten. Materialien und Oberflächen zum Anschmiegen. Gebautes für Generationen."
+    view_project = "Details ..."
+    more_works = "Mehr ..."
+    scroll_down = "Runter scrollen"
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/HG-ZTSiegel.jpg"
+    title1              = "Unabhängig. Planen. Prüfen."
+    title2              = "Als Ziviltechnikerin arbeite ich für Sie."
+    primary_button      = "Mehr erfahren"
+    primary_button_url  = "portfolio"
+    secondary_button    = "Jetzt anfragen"
+    secondary_button_url = "contact"
+
+  [params.footer]
+    params.footer.qr_print = false
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Kontakt"
+      contactname = "Martha Mörzinger"
+      address = "Neuhofen 65, 4864 Attersee"
+      phone   = "+43 664 7353 3935"
+      email   = "martha@moerzinger.com"
+      uid = "UID: ATU80228139"
+
+      imprint_privacy = "Impressum und Datenschutz"
+      imprint_privacy_url = "imprint-privacy"
+
+      [params.footer.blah]
+      title   = "blah"
+
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Links"
+      #  [[params.footer.social.link]]
+      #    name = "Instagram"
+      #    url  = "https://www.instagram.com/martha.moerzinger/"
+        [[params.footer.social.link]]
+          name = "Impressum und Datenschutz"
+          url  = "imprint-privacy"
+        [[params.footer.social.link]]
+          name = "Zurück zu moerzinger.com"
+          url  = "https://www.moerzinger.com"
