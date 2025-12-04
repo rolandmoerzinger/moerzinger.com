@@ -10613,11 +10613,11 @@ textarea:focus {
 /* purgecss stop ignore */
 /* You can customize theme styles here */
 .header .navbar-brand span:first-child{
-    color: #478079;
+    color: #005A8C;
 }
 
 html body ::selection{
-    background-color:#488079;color:#fff
+    background-color:#005A8C;color:#fff
 }
 
 .profile-image img{
@@ -10730,7 +10730,7 @@ ul.book-category-content {
 }
 
 .experience__company{
-    color: #478079;
+    color: #005A8C;
 }
 
 .experience__location{
@@ -10755,10 +10755,10 @@ body.home div.experience{
 .experience.selected a,
 .experience:hover a,
 .experience:active a,
-.experience a:hover, 
+.experience a:hover,
 .experience a:active{
     display: block;
-    background-color: #488079;
+    background-color: #005A8C;
 }
 .experience.selected a > .experience__company,
 .experience:hover a > .experience__company,
@@ -10787,7 +10787,7 @@ body.home div.experience{
     }
 }
 @media only screen and (min-width: 992px) and (max-width: 1280px){
-    .header{ 
+    .header{
         padding-top: 10px;
     }
 }
@@ -10798,8 +10798,8 @@ body.home div.experience{
     }
 }
 
-@media only screen and (min-width : 992px) {    
+@media only screen and (min-width : 992px) {
     .rad-showcase{
         padding-top: 40px;
-    }    
+    }
 }

@@ -4,7 +4,7 @@
 # working for hugo server
  # baseURL = "moerzinger.com/roland/public/"
 
-baseURL = "roland/public/"
+baseURL = "public/"
 
 
 
