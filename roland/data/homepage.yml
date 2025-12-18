@@ -17,11 +17,11 @@ Als Consultant stehe ich Ihnen mit meiner langjährigen <a href='index.html#expe
 "
   image:
     alt: "Roland mörzinger"
-    x: "images/roland_moerzinger.jpg"
-    _2x: "images/roland_moerzinger@2x.jpg"
+    x: "images/roland_moerzinger-2.jpg"
+    _2x: "images/roland_moerzinger-2@2x.jpg"
   imageMobile:
-    alt: "Roland mörzinger"
-    x: "images/roland_moerzinger.jpg"
+    alt: "Roland Mörzinger"
+    x: "images/roland_moerzinger-2.jpg"
 
   button:
     icon: "icon-mail-fill"
